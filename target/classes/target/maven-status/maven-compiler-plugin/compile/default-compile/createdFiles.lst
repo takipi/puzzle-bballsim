@@ -1,0 +1,5 @@
+com/takipi/puzzles/one/simulator/MatchSimulator.class
+com/takipi/puzzles/one/data/BoxScore.class
+com/takipi/puzzles/one/simulator/SimulationVerifier.class
+com/takipi/puzzles/one/Main.class
+com/takipi/puzzles/one/data/BasketballMatch.class
